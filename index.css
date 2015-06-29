@@ -2,6 +2,7 @@ html, body, table, tbody, tr, td{
 	margin: 0px;
 	padding: 0px;
 	background-color: #0085ad;
+	color:#ffffff;
 }
 html{
 	font-family: arial;
@@ -27,15 +28,15 @@ html{
 }
 #footer{
 	height:4%;
-	border-top: 1px solid black;
+	border-top: 1px solid white;
 }
 #footer img{
 	height:100%;
 	vertical-align:middle;
 }
 #more_button{
-	color:black;
 	text-decoration:none;
+	color:#ffffff;
 }
 .buttons{
 	width:7.5em;
