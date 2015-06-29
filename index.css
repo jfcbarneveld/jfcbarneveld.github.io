@@ -47,6 +47,7 @@ table span{
 }
 #buttons_table{
 	vertical-align:middle;
+	max-width:25em;
 }
 div center{
 	height:100%;
