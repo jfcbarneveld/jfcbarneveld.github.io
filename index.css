@@ -14,7 +14,7 @@ html{
 	background-color: #0085ad;
 }
 #content{
-	height: 92.2%;
+	height: 92.5%;
 }
 #logo{
 	height: 2em;
@@ -22,12 +22,15 @@ html{
 #header_text{
 	height: 2.5em;
 	color:#FFFFFF;
+	font-size:125%;
 }
 #main_screen{
-	height:96%;
+	height:92%;
 }
 #footer{
-	height:4%;
+	height:8%;
+	font-size:125%;
+	font-size:3vh;
 	border-top: 1px solid white;
 }
 #footer img{
@@ -39,7 +42,7 @@ html{
 	color:#ffffff;
 }
 .buttons{
-	width:7.5em;
+	width:25vh;
     vertical-align:middle;
 }
 table span{
@@ -47,7 +50,7 @@ table span{
 }
 #buttons_table{
 	vertical-align:middle;
-	max-width:25em;
+	max-width:80vh;
 }
 div center{
 	height:100%;
