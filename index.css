@@ -1,26 +1,29 @@
 html, body, table, tbody, tr, td{
-	margin: 0px;
-	padding: 0px;
-	background-color: #0085ad;
+	margin:0px;
+	padding:0px;
+	background-color:#0085ad;
 	color:#ffffff;
 }
 html{
-	font-family: arial;
+	font-family:arial;
 }
 #header{
-	width: 100%;
-	height: 5%;
-	padding: 0.5em;
-	background-color: #0085ad;
+	width:100%;
+	height:5%;
+	padding:6px;
+	padding:0.5em;
+	background-color:#0085ad;
 }
 #content{
-	height: 95%;
+	height:95%;
 }
 #logo{
-	height: 2em;
+	height:32px;
+	height:2em;
 }
 #header_text{
-	height: 2.5em;
+	heigth:40px;
+	height:2.5em;
 	color:#FFFFFF;
 	font-size:125%;
 }
@@ -28,6 +31,7 @@ html{
 	min-height:95%;
 }
 .buttons{
+	width:175px;
 	width:12.5em;
 	width:20vh;
     vertical-align:middle;
@@ -37,6 +41,7 @@ table span{
 }
 #buttons_table{
 	vertical-align:middle;
+	max-width:550px;
 	max-width:40em;
 	max-width:70vh;
 }
@@ -51,6 +56,7 @@ a{
 	text-decoration:none;
 }
 #more_button{
+	width:87.5px;
 	width:6.25em;
 	width:10vh;
 }
