@@ -4,6 +4,9 @@ html, body, table, tbody, tr, td{
 	background-color:#0085ad;
 	color:#ffffff;
 }
+body div{
+	-webkit-transform: translate3d(0,0,0);
+}
 html{
 	font-family:arial;
 }
